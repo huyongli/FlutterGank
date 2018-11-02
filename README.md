@@ -19,7 +19,7 @@
 10. 如何进行页面跳转
 
 Demo效果如如下：   
-<img src="./image/list.png" width = "360" height = "640" alt=""/>
-<img src="./image/webview.png" width = "360" height = "640" alt=""/>
-<img src="./image/images.png" width = "360" height = "640" alt=""/>
-<img src="./image/photo.png" width = "360" height = "640" alt=""/>
+<img src="./image/list.png" width = "240" height = "480" alt=""/>
+<img src="./image/webview.png" width = "240" height = "480" alt=""/>
+<img src="./image/images.png" width = "240" height = "480" alt=""/>
+<img src="./image/photo.png" width = "240" height = "480" alt=""/>
