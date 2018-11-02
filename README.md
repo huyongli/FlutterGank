@@ -1,6 +1,6 @@
 # FlutterGank
 
-初学Flutter，利用gank.io提供的api接口实现了一个Flutter Demo.
+初学Flutter，看了两天文档，花了两天时间利用gank.io提供的api接口实践了下Flutter，写了个Demo.
 
 主要实践了Flutter的如下几个知识点：
 1. 如何使用`dio`框架发起网络请求
@@ -19,6 +19,7 @@
 10. 如何进行页面跳转
 
 Demo效果如如下：   
+
 <img src="./image/list.png" width = "240" height = "480" alt=""/>
 <img src="./image/webview.png" width = "240" height = "480" alt=""/>
 <img src="./image/images.png" width = "240" height = "480" alt=""/>
