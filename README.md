@@ -20,7 +20,6 @@
 
 Demo效果如如下：   
 <img src="./image/list.png" width = "360" height = "640" alt=""/>
-<img src="./image/list.png" width = "360" height = "640" alt=""/>
 <img src="./image/webview.png" width = "360" height = "640" alt=""/>
 <img src="./image/images.png" width = "360" height = "640" alt=""/>
 <img src="./image/photo.png" width = "360" height = "640" alt=""/>
