@@ -18,8 +18,9 @@
 9. 如何使用`AppBar`组件同时给其添加`TabBarView`组件和`BottomNavigationBar`
 10. 如何进行页面跳转
 
-Demo效果如如下：
-![](./image/list.png)
-![](./image/webview.png)
-![](./image/images.png)
-![](./image/photo.png)
+Demo效果如如下：   
+<img src="./image/list.png" width = "360" height = "640" alt=""/>
+<img src="./image/list.png" width = "360" height = "640" alt=""/>
+<img src="./image/webview.png" width = "360" height = "640" alt=""/>
+<img src="./image/images.png" width = "360" height = "640" alt=""/>
+<img src="./image/photo.png" width = "360" height = "640" alt=""/>
